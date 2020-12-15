@@ -8,6 +8,7 @@ public class Area {
 		squareArea.areaOfSquare();
 		double a=2.0;
 		double b=3.0;
+		
 		double area=(a*b)/2;
 		System.out.println("Area of Triangle : " +area);
 	}
